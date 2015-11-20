@@ -1,4 +1,10 @@
 # Raddit
+
+### This is the week-1 learning tutorial from  
+1. [Mackenzie's 12-in-12 challenge](https://mackenziechild.me/12-in-12/)  
+2. [Youtube Link](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)  
+3. [Github Repo](https://github.com/mackenziechild/raddit)
+
 A reddit style webapp, where Links can be posted, commented on and voted up or down.
 
 Will soon be deployed to Heroku.
